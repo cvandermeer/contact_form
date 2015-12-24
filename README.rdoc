@@ -1,11 +1,13 @@
 = ContactForm
 
-add to gemfile:
+Add to gemfile:
 
 gem 'contact_form', git: 'git@github.com:cvandermeer/contact_form.git'
 
-then run:
+Then run:
 
 rake contact_form:install:migrations
+
+Then just create a new view based on your needs
 
 This project rocks and uses MIT-LICENSE.
