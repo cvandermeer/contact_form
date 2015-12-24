@@ -1,3 +1,11 @@
 = ContactForm
 
+add to gemfile:
+
+gem 'contact_form', git: 'git@github.com:cvandermeer/contact_form.git'
+
+then run:
+
+rake contact_form:install:migrations
+
 This project rocks and uses MIT-LICENSE.
