@@ -3,7 +3,7 @@ class CreateMessages < ActiveRecord::Migration
     create_table :messages do |t|
       t.string :name
       t.string :email
-      t.string :body
+      t.text :body, :text, limit: 4294967295
       t.datetime :created_at
     end
   end
