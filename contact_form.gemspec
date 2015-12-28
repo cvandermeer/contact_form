@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = ContactForm::VERSION
   s.authors     = ["Chris van der Meer"]
   s.email       = ["cvandermeer@live.nl"]
-  s.homepage    = "ikbeninwoner.nl"
+  s.homepage    = "http://ikbeninwoner.nl"
   s.summary     = "Summary of ContactForm."
   s.description = "Description of ContactForm."
   s.license     = "MIT"
