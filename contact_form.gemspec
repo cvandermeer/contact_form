@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = ContactForm::VERSION
   s.authors     = ["Chris van der Meer"]
   s.email       = ["cvandermeer@live.nl"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of ContactForm."
-  s.description = "TODO: Description of ContactForm."
+  s.homepage    = "ikbeninwoner.nl"
+  s.summary     = "Summary of ContactForm."
+  s.description = "Description of ContactForm."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
